@@ -1,4 +1,4 @@
-# Nmae: Sri Vignesh G
+# Name: Sri Vignesh G
 # Reference No: 23012556
 
 # Experiment-03: Implementation of Half Subtractor and Full subtractor
